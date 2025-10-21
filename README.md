@@ -13,7 +13,7 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
 
 ---
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/cybersecsprofile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,19 +23,21 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
   <a href="mailto:1rrutherford1@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" alt="Your Image Badge" />
-  </a>
-  <a>
-    <img src="https://www.hackthebox.eu/badge/image/1969974" alt="Your Image Badge" />
-  </a>
 </p>
+
+###
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" alt="Your Image Badge" />                           <img src="https://www.hackthebox.eu/badge/image/1969974" alt="Your Image Badge" />
+</div>  
+
+###
 
 ---
 
 ## 💻 My Toolkit
 
-<p align="left">
+<p align="center">
   <strong>Languages:</strong><br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
@@ -43,14 +45,9 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
   </a>
-  
-  <br><br>
-  <strong>Databases:</strong><br>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-  </a>
-  
-  <br><br>
+</p>
+
+<p align="center">
   <strong>Tools & Operating Systems:</strong><br>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
