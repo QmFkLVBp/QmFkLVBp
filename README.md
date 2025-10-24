@@ -23,6 +23,9 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
   <a href="mailto:1rrutherford1@proton.me">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
+  <a href="https://qmfklvbp.github.io/badpi.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-4c566a?style=for-the-badge&logo=lucide:globe&logoColor=white" alt="Personal Website"/>
+  </a>
 </p>
 
 ###
