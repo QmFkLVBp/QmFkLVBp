@@ -64,9 +64,6 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
   </a>
-   <a href="https://www.tails.net/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tails" alt="Tails" />
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
   </a>
