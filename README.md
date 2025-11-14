@@ -4,7 +4,7 @@
 
 > "Until I read the KKU - life seemed brighter" 💀
 
-I'm a cybersecurity student deeply passionate about the offensive side of security. My main interests lie in **Pentesting**, **Malware Development (Maldev)**, and **Social Engineering**.
+I'm a cybersecurity student deeply passionate about the offensive side of security. My main interests lie in **Pentesting**, **Malware Development (Maldev)**, and **OSINT**.
 
 -   🌱 I’m currently sharpening my skills in cryptology and building custom pentesting tools.
 -   🛠️ I use this GitHub to host my personal projects and code snippets.
