@@ -38,6 +38,47 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
 
 ---
 
+<section class="fade-in-section">
+  <h2><i class="icon">📜</i> Certificates</h2>
+  <div class="certificate-list">
+    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1725893019804/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [NDG] LINUX UNHATCHED
+    </a>
+    <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEubIh_lKtrPQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1725893227586?e=1766152800&v=beta&t=KoK5qeRu4nHLop0TmvElGRpO83xwzGUTEkl8HNs2VXQ" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [YouControl] Як шукати інформацію в Інтернеті
+    </a>
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SALODTD99J.png" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [THM] INTRODUTION TO CYBER SECURITY
+    </a>
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDKF5TLAN7.png" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [THM] COMPTIA PENTEST+
+    </a>
+    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VDIDC5UQS5.png" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [THM] RED TEAMING
+    </a>
+    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1731435765344/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [CISCO] LINUX
+    </a>
+    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1734379528554/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [HTB + CTF] UNIVERSITY CTF 2024
+    </a>
+    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1742999470860/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [HTB + CTF] CYBER APOCALYPSE CTF 2025
+    </a>
+    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a776f502-6d21-41b5-a8cd-e022ec91ee8d.pdf" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [MOLFAR] OSINT BASIC
+    </a>
+    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c2b96f99-8c11-47b7-ac69-ff194ba78bd4.pdf" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [MOLFAR] OSINT ADVANCE
+    </a>
+    <a href="https://www.credly.com/badges/db14be1d-0c98-42a5-9af8-5dd842ed4cef/public_url" target="_blank" rel="noopener noreferrer" class="cert-link">
+      [IBM] QRadar SIEM Foundation
+    </a>
+  </div>
+</section>
+
+---
+
 ## 💻 My Toolkit
 
 <p align="center">
