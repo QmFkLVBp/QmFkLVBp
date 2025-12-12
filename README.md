@@ -6,10 +6,10 @@
 
 I'm a cybersecurity student deeply passionate about the offensive side of security. My main interests lie in **Pentesting**, **Malware Development (Maldev)**, and **OSINT**.
 
--   🌱 I’m currently sharpening my skills in cryptology and building custom pentesting tools.
--   🛠️ I use this GitHub to host my personal projects and code snippets.
--   📫 I am actively seeking new opportunities and connections in the cybersecurity field.
--   ☕ Fun fact: I'm a total coffeeholic!
+- 🌱 I’m currently sharpening my skills in cryptology and building custom pentesting tools.
+- 🛠️ I use this GitHub to host my personal projects and code snippets.
+- 📫 I am actively seeking new opportunities and connections in the cybersecurity field.
+- ☕ Fun fact: I'm a total coffeeholic!
 
 ---
 
@@ -31,51 +31,91 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
 ###
 
 <div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" alt="Your Image Badge" />                           <img src="https://www.hackthebox.eu/badge/image/1969974" alt="Your Image Badge" />
-</div>  
-
-###
+  <img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" alt="TryHackMe Badge" />
+  <img src="https://www.hackthebox.eu/badge/image/1969974" alt="Hack The Box Badge" />
+</div>
 
 ---
 
-<section class="fade-in-section">
-  <h2><i class="icon">📜</i> Certificates</h2>
-  <div class="certificate-list">
-    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1725893019804/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [NDG] LINUX UNHATCHED
-    </a>
-    <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEubIh_lKtrPQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1725893227586?e=1766152800&v=beta&t=KoK5qeRu4nHLop0TmvElGRpO83xwzGUTEkl8HNs2VXQ" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [YouControl] Як шукати інформацію в Інтернеті
-    </a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SALODTD99J.png" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [THM] INTRODUTION TO CYBER SECURITY
-    </a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDKF5TLAN7.png" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [THM] COMPTIA PENTEST+
-    </a>
-    <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VDIDC5UQS5.png" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [THM] RED TEAMING
-    </a>
-    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1731435765344/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [CISCO] LINUX
-    </a>
-    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1734379528554/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [HTB + CTF] UNIVERSITY CTF 2024
-    </a>
-    <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1742999470860/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [HTB + CTF] CYBER APOCALYPSE CTF 2025
-    </a>
-    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a776f502-6d21-41b5-a8cd-e022ec91ee8d.pdf" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [MOLFAR] OSINT BASIC
-    </a>
-    <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c2b96f99-8c11-47b7-ac69-ff194ba78bd4.pdf" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [MOLFAR] OSINT ADVANCE
-    </a>
-    <a href="https://www.credly.com/badges/db14be1d-0c98-42a5-9af8-5dd842ed4cef/public_url" target="_blank" rel="noopener noreferrer" class="cert-link">
-      [IBM] QRadar SIEM Foundation
-    </a>
-  </div>
-</section>
+## 📜 Certificates
+
+<p align="center">
+  <em>Selected certifications and course completions.</em>
+</p>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1725893019804/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/NDG-Linux%20Unhatched-2C3E50?style=for-the-badge&logo=linux&logoColor=white" alt="NDG Linux Unhatched"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://media.licdn.com/dms/image/v2/D4E2DAQEubIh_lKtrPQ/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1725893227586?e=1766152800&v=beta&t=KoK5qeRu4nHLop0T" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/YouControl-Як%20шукати%20інформацію%20в%20Інтернеті-0A66C2?style=for-the-badge&logo=google&logoColor=white" alt="YouControl OSINT Course"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SALODTD99J.png" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TryHackMe-Introduction%20to%20Cyber%20Security-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Intro to Cyber Security"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-FDKF5TLAN7.png" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TryHackMe-CompTIA%20PenTest%2B-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM CompTIA PenTest+"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VDIDC5UQS5.png" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/TryHackMe-Red%20Teaming-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white" alt="THM Red Teaming"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1731435765344/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Cisco-Linux-1A73E8?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Linux"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1734379528554/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/HTB%20CTF-University%20CTF%202024-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB University CTF 2024"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/cybersecsprofile/details/certifications/1742999470860/single-media-viewer/?type=DOCUMENT&profileId=ACoAAFKAejABxhH8Y0zDxSNP492LK78rdsZNXk0" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/HTB%20CTF-Cyber%20Apocalypse%202025-9B59B6?style=for-the-badge&logo=hackthebox&logoColor=white" alt="HTB Cyber Apocalypse 2025"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-a776f502-6d21-41b5-a8cd-e022ec91ee8d.pdf" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/MOLFAR-OSINT%20Basic-2ECC71?style=for-the-badge&logo=readme&logoColor=white" alt="MOLFAR OSINT Basic"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://udemy-certificate.s3.amazonaws.com/pdf/UC-c2b96f99-8c11-47b7-ac69-ff194ba78bd4.pdf" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/MOLFAR-OSINT%20Advanced-27AE60?style=for-the-badge&logo=readme&logoColor=white" alt="MOLFAR OSINT Advanced"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <a href="https://www.credly.com/badges/db14be1d-0c98-42a5-9af8-5dd842ed4cef/public_url" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/IBM-QRadar%20SIEM%20Foundation-1F70C1?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM QRadar SIEM Foundation"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
