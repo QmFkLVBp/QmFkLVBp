@@ -32,7 +32,7 @@ I'm a cybersecurity student deeply passionate about the offensive side of securi
 
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" alt="TryHackMe Badge" />
-  <img src="https://www.hackthebox.eu/badge/image/1969974" alt="Hack The Box Badge" />
+  <img src="https://www.hackthebox.eu/badge/image/1969974" alt="HackTheBox Badge" />
 </div>
 
 ---
