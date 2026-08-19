@@ -96,8 +96,8 @@
     <text x="428" y="374" text-anchor="end" class="mono body white">QUBES / ARCH / KALI</text>
     <line x1="92" y1="386" x2="428" y2="386" stroke="#252a31"/>
 
-    <text x="92" y="414" class="mono micro muted">DEPLOYMENT</text>
-    <text x="428" y="414" text-anchor="end" class="mono body white">KYIV, UKRAINE</text>
+    <text x="92" y="414" class="mono micro muted">OPERATION MODE</text>
+    <text x="428" y="414" text-anchor="end" class="mono body white">AUTHORIZED LABS</text>
 
     <rect x="92" y="430" width="336" height="4" fill="#1e2228"/>
     <rect x="92" y="430" width="270" height="4" fill="#ff2a2a">
@@ -215,7 +215,6 @@
 
   <!-- footer -->
   <text x="58" y="886" class="mono small muted">bad-pi@github:~$ <tspan class="white">./engage --authorized</tspan><tspan class="red"> █</tspan></text>
-  <text x="1342" y="886" text-anchor="end" class="mono micro muted">NODE: UA-KYIV // STATUS: BUILDING // TRACE: MINIMIZED</text>
+  <text x="1342" y="886" text-anchor="end" class="mono micro muted">NODE: REDTEAM-01 // STATUS: BUILDING // TRACE: MINIMIZED</text>
   <rect x="58" y="901" width="1284" height="2" fill="url(#redline)"/>
 </svg>
-
