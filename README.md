@@ -58,16 +58,15 @@
 </table>
 
 <details>
-<summary align="center"><b>OPEN LIVE TELEMETRY</b></summary>
+<summary align="center"><b>OPEN ASSET TELEMETRY</b></summary>
 <br>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=QmFkLVBp&amp;show_icons=true&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=ff2a2a&amp;text_color=f5f5f5&amp;icon_color=35d0ba&amp;border_color=402024" alt="GitHub statistics">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=QmFkLVBp&amp;layout=compact&amp;langs_count=6&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=ff2a2a&amp;text_color=f5f5f5&amp;border_color=402024" alt="Top languages">
+  <a href="https://github.com/QmFkLVBp/hckfetch"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=QmFkLVBp&amp;repo=hckfetch&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=ff2a2a&amp;text_color=f5f5f5&amp;icon_color=35d0ba&amp;border_color=402024" alt="hckfetch repository telemetry"></a>
+  <a href="https://github.com/QmFkLVBp/SSPE"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=QmFkLVBp&amp;repo=SSPE&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=ff6b35&amp;text_color=f5f5f5&amp;icon_color=35d0ba&amp;border_color=402024" alt="SSPE repository telemetry"></a>
 </p>
 <p align="center">
-  <a href="https://tryhackme.com/p/0xW1ZARD"><img src="https://tryhackme-badges.s3.amazonaws.com/0xW1ZARD.png" height="64" alt="TryHackMe profile"></a>
-  &nbsp;&nbsp;
-  <a href="https://app.hackthebox.com/profile/1969974"><img src="https://www.hackthebox.eu/badge/image/1969974" height="64" alt="Hack The Box profile"></a>
+  <a href="https://github.com/QmFkLVBp/decryptoinator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=QmFkLVBp&amp;repo=decryptoinator&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=ff2a2a&amp;text_color=f5f5f5&amp;icon_color=35d0ba&amp;border_color=402024" alt="decryptoinator repository telemetry"></a>
+  <a href="https://github.com/QmFkLVBp/MIMEXOR"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=QmFkLVBp&amp;repo=MIMEXOR&amp;hide_border=false&amp;border_radius=4&amp;bg_color=050506&amp;title_color=35d0ba&amp;text_color=f5f5f5&amp;icon_color=35d0ba&amp;border_color=402024" alt="MIMEXOR repository telemetry"></a>
 </p>
 </details>
 
@@ -76,4 +75,3 @@
 <p align="center">
   <code>AUTHORIZED RESEARCH ONLY // EVIDENCE OVER ASSUMPTIONS // DOCUMENT THE OPERATION</code>
 </p>
-
