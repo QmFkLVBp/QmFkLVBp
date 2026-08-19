@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="940" viewBox="0 0 1400 940" role="img" aria-labelledby="title desc">
+  <title id="title">BAD-PI Red Team Operations Node</title>
+  <desc id="desc">Animated red team operations dashboard for cybersecurity engineer Myroslav, known as Bad-Pi.</desc>
+  <defs>
+    <pattern id="microgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#20242a" stroke-width="1" opacity=".42"/>
+    </pattern>
+    <linearGradient id="redline" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff2a2a" stop-opacity="0"/>
+      <stop offset=".45" stop-color="#ff2a2a"/>
+      <stop offset=".55" stop-color="#ff6b35"/>
+      <stop offset="1" stop-color="#ff2a2a" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101218"/>
+      <stop offset="1" stop-color="#07080b"/>
+    </linearGradient>
+    <radialGradient id="radarGlow">
+      <stop offset="0" stop-color="#ff2a2a" stop-opacity=".19"/>
+      <stop offset="1" stop-color="#ff2a2a" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glowRed" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="screenClip"><rect x="34" y="34" width="1332" height="872"/></clipPath>
+    <style>
+      .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono",monospace}
+      .red{fill:#ff2a2a}.orange{fill:#ff6b35}.white{fill:#f5f5f5}.muted{fill:#89919d}.cyan{fill:#35d0ba}
+      .kicker{font-size:13px;font-weight:700;letter-spacing:3px}
+      .heading{font-size:18px;font-weight:800;letter-spacing:3px}
+      .body{font-size:14px}.small{font-size:12px}.micro{font-size:10px;letter-spacing:1px}
+      .cardTitle{font-size:20px;font-weight:800;letter-spacing:1px}
+    </style>
+  </defs>
+
+  <rect width="1400" height="940" fill="#050506"/>
+  <rect width="1400" height="940" fill="url(#microgrid)"/>
+
+  <!-- angular full-width chassis -->
+  <path d="M34 14H1326L1386 74V866L1326 926H74L14 866V74Z" fill="none" stroke="#ff2a2a" stroke-width="2"/>
+  <path d="M43 26H1321L1374 79V861L1321 914H79L26 861V79Z" fill="none" stroke="#3a1518" stroke-width="1"/>
+  <path d="M14 110H95M1305 110H1386M14 830H95M1305 830H1386" stroke="#ff6b35" stroke-width="4"/>
+  <path d="M56 14V42M1344 42V14M56 898V926M1344 898V926" stroke="#ff2a2a" stroke-width="3"/>
+
+  <!-- animated scanner -->
+  <g clip-path="url(#screenClip)" opacity=".24">
+    <rect x="34" y="80" width="1332" height="3" fill="url(#redline)" filter="url(#softGlow)">
+      <animate attributeName="y" values="80;885;80" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".05;.55;.05" dur="8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- command bar -->
+  <circle cx="62" cy="58" r="5" fill="#ff2a2a"/>
+  <circle cx="82" cy="58" r="5" fill="#ff6b35"/>
+  <circle cx="102" cy="58" r="5" fill="#35d0ba"/>
+  <text x="128" y="63" class="mono small muted">/opt/redteam/control-node</text>
+  <text x="1338" y="63" text-anchor="end" class="mono small cyan">AUTHORIZATION: VERIFIED</text>
+  <rect x="34" y="82" width="1332" height="1" fill="url(#redline)"/>
+
+  <!-- hero title with subtle glitch -->
+  <g text-anchor="middle" class="mono">
+    <text x="700" y="127" class="heading red" opacity=".18">
+      BAD-PI // RED TEAM OPERATIONS NODE
+      <animate attributeName="x" values="700;704;697;700;700" keyTimes="0;.06;.11;.16;1" dur="4.2s" repeatCount="indefinite"/>
+    </text>
+    <text x="700" y="127" class="heading white" filter="url(#softGlow)">BAD-PI // RED TEAM OPERATIONS NODE</text>
+    <text x="700" y="153" class="kicker muted">RECONNAISSANCE · ADVERSARY EMULATION · SECURITY TOOLING · LINUX</text>
+  </g>
+
+  <!-- operator dossier -->
+  <g>
+    <path d="M58 184H438L462 208V448H58Z" fill="url(#panel)" stroke="#402024" stroke-width="2"/>
+    <path d="M58 184H286" stroke="#ff2a2a" stroke-width="3"/>
+    <text x="260" y="217" text-anchor="middle" class="mono heading red">[ OPERATOR DOSSIER ]</text>
+
+    <text x="92" y="254" class="mono micro muted">HANDLE</text>
+    <text x="428" y="254" text-anchor="end" class="mono body white">BAD-PI / MYROSLAV</text>
+    <line x1="92" y1="266" x2="428" y2="266" stroke="#252a31"/>
+
+    <text x="92" y="294" class="mono micro muted">ROLE</text>
+    <text x="428" y="294" text-anchor="end" class="mono body white">CYBERSECURITY ENGINEER</text>
+    <line x1="92" y1="306" x2="428" y2="306" stroke="#252a31"/>
+
+    <text x="92" y="334" class="mono micro muted">FOCUS</text>
+    <text x="428" y="334" text-anchor="end" class="mono body white">OSINT / RED TEAM / TOOLING</text>
+    <line x1="92" y1="346" x2="428" y2="346" stroke="#252a31"/>
+
+    <text x="92" y="374" class="mono micro muted">SYSTEMS</text>
+    <text x="428" y="374" text-anchor="end" class="mono body white">QUBES / ARCH / KALI</text>
+    <line x1="92" y1="386" x2="428" y2="386" stroke="#252a31"/>
+
+    <text x="92" y="414" class="mono micro muted">DEPLOYMENT</text>
+    <text x="428" y="414" text-anchor="end" class="mono body white">KYIV, UKRAINE</text>
+
+    <rect x="92" y="430" width="336" height="4" fill="#1e2228"/>
+    <rect x="92" y="430" width="270" height="4" fill="#ff2a2a">
+      <animate attributeName="width" values="45;270;270;45" dur="6s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- capability chain -->
+  <g>
+    <path d="M492 184H900L924 208V448H492Z" fill="url(#panel)" stroke="#402024" stroke-width="2"/>
+    <path d="M492 184H720" stroke="#ff2a2a" stroke-width="3"/>
+    <text x="708" y="217" text-anchor="middle" class="mono heading red">[ OPERATION CHAIN ]</text>
+
+    <path d="M555 305H860" stroke="#4a2024" stroke-width="2" stroke-dasharray="7 8">
+      <animate attributeName="stroke-dashoffset" values="0;-30" dur="2s" repeatCount="indefinite"/>
+    </path>
+    <g class="mono" text-anchor="middle">
+      <circle cx="555" cy="305" r="31" fill="#0a0b0e" stroke="#ff2a2a" stroke-width="2"/>
+      <text x="555" y="301" class="kicker white">01</text><text x="555" y="321" class="micro red">RECON</text>
+
+      <circle cx="657" cy="305" r="31" fill="#0a0b0e" stroke="#ff6b35" stroke-width="2"/>
+      <text x="657" y="301" class="kicker white">02</text><text x="657" y="321" class="micro orange">ANALYZE</text>
+
+      <circle cx="759" cy="305" r="31" fill="#0a0b0e" stroke="#ff2a2a" stroke-width="2"/>
+      <text x="759" y="301" class="kicker white">03</text><text x="759" y="321" class="micro red">EMULATE</text>
+
+      <circle cx="861" cy="305" r="31" fill="#0a0b0e" stroke="#35d0ba" stroke-width="2"/>
+      <text x="861" y="301" class="kicker white">04</text><text x="861" y="321" class="micro cyan">VALIDATE</text>
+    </g>
+
+    <text x="708" y="378" text-anchor="middle" class="mono body white">observe → model → reproduce → measure</text>
+    <text x="708" y="405" text-anchor="middle" class="mono small muted">AUTHORIZED ENVIRONMENTS ONLY // EVIDENCE OVER ASSUMPTIONS</text>
+  </g>
+
+  <!-- radar -->
+  <g>
+    <path d="M954 184H1318L1342 208V448H954Z" fill="url(#panel)" stroke="#402024" stroke-width="2"/>
+    <path d="M954 184H1135" stroke="#ff2a2a" stroke-width="3"/>
+    <text x="1148" y="217" text-anchor="middle" class="mono heading red">[ SIGNAL RADAR ]</text>
+
+    <circle cx="1148" cy="331" r="95" fill="url(#radarGlow)" stroke="#552126"/>
+    <circle cx="1148" cy="331" r="67" fill="none" stroke="#35262a"/>
+    <circle cx="1148" cy="331" r="39" fill="none" stroke="#35262a"/>
+    <path d="M1053 331H1243M1148 236V426" stroke="#35262a"/>
+    <g>
+      <path d="M1148 331L1148 238A93 93 0 0 1 1214 265Z" fill="#ff2a2a" opacity=".18"/>
+      <path d="M1148 331L1148 238" stroke="#ff2a2a" stroke-width="2" filter="url(#glowRed)"/>
+      <animateTransform attributeName="transform" type="rotate" from="0 1148 331" to="360 1148 331" dur="4.8s" repeatCount="indefinite"/>
+    </g>
+    <circle cx="1200" cy="282" r="4" fill="#35d0ba" filter="url(#softGlow)">
+      <animate attributeName="opacity" values=".2;1;.2" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1093" cy="362" r="4" fill="#ff2a2a" filter="url(#softGlow)">
+      <animate attributeName="opacity" values="1;.15;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="1178" cy="388" r="3" fill="#ff6b35"/>
+  </g>
+
+  <!-- active assets -->
+  <text x="700" y="492" text-anchor="middle" class="mono heading red">[ ACTIVE ASSETS // PUBLIC REPOSITORIES ]</text>
+
+  <g class="mono">
+    <g>
+      <path d="M58 520H362L378 536V694H58Z" fill="url(#panel)" stroke="#ff2a2a" stroke-width="1.5"/>
+      <text x="218" y="555" text-anchor="middle" class="cardTitle white">HCKFETCH</text>
+      <text x="218" y="582" text-anchor="middle" class="small muted">OPERATOR TELEMETRY</text>
+      <path d="M90 602H346" stroke="#302026"/>
+      <text x="218" y="630" text-anchor="middle" class="body white">Pentest activity tracker</text>
+      <text x="218" y="654" text-anchor="middle" class="small muted">BASH · LINUX · ACTIVE</text>
+      <text x="82" y="681" class="micro red">ASSET_01</text>
+      <text x="350" y="681" text-anchor="end" class="micro cyan">ONLINE</text>
+    </g>
+
+    <g>
+      <path d="M396 520H700L716 536V694H396Z" fill="url(#panel)" stroke="#ff6b35" stroke-width="1.5"/>
+      <text x="556" y="555" text-anchor="middle" class="cardTitle white">SSPE</text>
+      <text x="556" y="582" text-anchor="middle" class="small muted">LOCAL ATTACK-SURFACE AUDIT</text>
+      <path d="M428 602H684" stroke="#302026"/>
+      <text x="556" y="630" text-anchor="middle" class="body white">Linux privilege analysis</text>
+      <text x="556" y="654" text-anchor="middle" class="small muted">PYTHON · RICH · REPORTLAB</text>
+      <text x="420" y="681" class="micro orange">ASSET_02</text>
+      <text x="688" y="681" text-anchor="end" class="micro cyan">ONLINE</text>
+    </g>
+
+    <g>
+      <path d="M734 520H1038L1054 536V694H734Z" fill="url(#panel)" stroke="#ff2a2a" stroke-width="1.5"/>
+      <text x="894" y="555" text-anchor="middle" class="cardTitle white">DECRYPTOINATOR</text>
+      <text x="894" y="582" text-anchor="middle" class="small muted">CRYPTO / STEGO WORKBENCH</text>
+      <path d="M766 602H1022" stroke="#302026"/>
+      <text x="894" y="630" text-anchor="middle" class="body white">Analysis desktop toolkit</text>
+      <text x="894" y="654" text-anchor="middle" class="small muted">PYTHON · CUSTOMTKINTER</text>
+      <text x="758" y="681" class="micro red">ASSET_03</text>
+      <text x="1026" y="681" text-anchor="end" class="micro cyan">ONLINE</text>
+    </g>
+
+    <g>
+      <path d="M1072 520H1318L1342 544V694H1072Z" fill="url(#panel)" stroke="#35d0ba" stroke-width="1.5"/>
+      <text x="1207" y="555" text-anchor="middle" class="cardTitle white">MIMEXOR</text>
+      <text x="1207" y="582" text-anchor="middle" class="small muted">SAFE ADVERSARY EMULATION</text>
+      <path d="M1104 602H1310" stroke="#302026"/>
+      <text x="1207" y="630" text-anchor="middle" class="body white">AV/EDR lab validation</text>
+      <text x="1207" y="654" text-anchor="middle" class="small muted">PYTHON · TELEGRAM</text>
+      <text x="1096" y="681" class="micro cyan">ASSET_04</text>
+      <text x="1314" y="681" text-anchor="end" class="micro cyan">ONLINE</text>
+    </g>
+  </g>
+
+  <!-- operational focus -->
+  <g>
+    <path d="M58 730H1342V838L1322 858H78L58 838Z" fill="url(#panel)" stroke="#402024" stroke-width="2"/>
+    <text x="700" y="763" text-anchor="middle" class="mono heading red">[ CURRENT MISSION // PIE OS ]</text>
+    <text x="700" y="795" text-anchor="middle" class="mono body white">Build a terminal-first Linux environment for offensive-security research, learning, and controlled experimentation.</text>
+    <text x="700" y="822" text-anchor="middle" class="mono small muted">HARDENED WORKFLOWS · INSPECTABLE TOOLING · SANDBOXED ASSISTANCE · OPSEC-AWARE DESIGN</text>
+  </g>
+
+  <!-- footer -->
+  <text x="58" y="886" class="mono small muted">bad-pi@github:~$ <tspan class="white">./engage --authorized</tspan><tspan class="red"> █</tspan></text>
+  <text x="1342" y="886" text-anchor="end" class="mono micro muted">NODE: UA-KYIV // STATUS: BUILDING // TRACE: MINIMIZED</text>
+  <rect x="58" y="901" width="1284" height="2" fill="url(#redline)"/>
+</svg>
+
