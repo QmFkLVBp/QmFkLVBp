@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="940" viewBox="0 0 960 940" role="img" aria-labelledby="terminal-title terminal-description">
+  <title id="terminal-title">QmFkLVBp — terminal profile</title>
+  <desc id="terminal-description">Bad-Pi, cybersecurity engineer. OSINT, Red Team and security tooling. Repositories: hckfetch, 0 stars; SSPE, 0 stars; decryptoinator, 1 star; MIMEXOR, 0 stars. Stars checked on 2026-10-28. Repository views are not connected.</desc>
+  <defs>
+    <clipPath id="terminal-window">
+      <rect x="0.5" y="0.5" width="959" height="939" rx="12"/>
+    </clipPath>
+    <style>
+      .mono { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; }
+      .command { fill: #e6edf3; font-size: 15px; }
+      .prompt { fill: #d7b777; }
+      .muted { fill: #98a6b5; }
+      .link { fill: #86baff; }
+      .header { font-size: 12px; letter-spacing: .5px; }
+      .project { font-size: 15px; }
+      .description { font-size: 13px; }
+      .number { fill: #e6edf3; font-size: 15px; }
+      .rule { stroke: #303943; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#terminal-window)">
+    <rect width="960" height="940" fill="#0d1117"/>
+    <rect width="960" height="60" fill="#161b22"/>
+    <path d="M32 24l6 6-6 6m11 0h6" fill="none" stroke="#98a6b5" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="66" y="35" class="mono muted" font-size="13">QmFkLVBp — ~/github</text>
+    <path d="M0 60H960" class="rule"/>
+
+    <text x="36" y="115" class="mono command"><tspan class="prompt">~ $</tspan><tspan dx="12">whoami</tspan></text>
+    <text x="36" y="173" fill="#8ac4a8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif" font-size="34" font-weight="500" letter-spacing="-.6">QmFkLVBp</text>
+    <text x="36" y="213" class="mono muted" font-size="15">Bad-Pi · Cybersecurity engineer</text>
+    <text x="36" y="239" class="mono muted" font-size="15">OSINT / Red Team / Security tooling</text>
+
+    <text x="36" y="303" class="mono command"><tspan class="prompt">~ $</tspan><tspan dx="12">./tools --stats</tspan></text>
+    <g class="mono muted header">
+      <text x="36" y="356">REPOSITORY</text>
+      <text x="704" y="356" text-anchor="end">STARS</text>
+      <text x="924" y="356" text-anchor="end">VIEWS (14d)</text>
+    </g>
+    <path d="M36 377H924" class="rule"/>
+
+    <g class="mono">
+      <text x="36" y="420" class="link project">hckfetch ↗</text>
+      <text x="36" y="450" class="muted description">Pentest activity tracker</text>
+      <text x="674" y="420" class="prompt project">★</text>
+      <text x="704" y="420" text-anchor="end" class="number">0</text>
+      <text x="924" y="420" text-anchor="end" class="muted project">—</text>
+      <path d="M36 478H924" class="rule"/>
+
+      <text x="36" y="512" class="link project">SSPE ↗</text>
+      <text x="36" y="542" class="muted description">Linux security audit</text>
+      <text x="674" y="512" class="prompt project">★</text>
+      <text x="704" y="512" text-anchor="end" class="number">0</text>
+      <text x="924" y="512" text-anchor="end" class="muted project">—</text>
+      <path d="M36 570H924" class="rule"/>
+
+      <text x="36" y="604" class="link project">decryptoinator ↗</text>
+      <text x="36" y="634" class="muted description">Crypto &amp; stego workbench</text>
+      <text x="674" y="604" class="prompt project">★</text>
+      <text x="704" y="604" text-anchor="end" class="number">1</text>
+      <text x="924" y="604" text-anchor="end" class="muted project">—</text>
+      <path d="M36 662H924" class="rule"/>
+
+      <text x="36" y="696" class="link project">MIMEXOR ↗</text>
+      <text x="36" y="726" class="muted description">AV/EDR lab emulation</text>
+      <text x="674" y="696" class="prompt project">★</text>
+      <text x="704" y="696" text-anchor="end" class="number">0</text>
+      <text x="924" y="696" text-anchor="end" class="muted project">—</text>
+      <path d="M36 754H924" class="rule"/>
+    </g>
+
+    <text x="36" y="806" class="mono command"><tspan class="prompt">~ $</tspan><tspan dx="12">cat links.txt</tspan></text>
+    <g class="mono link" font-size="14">
+      <text x="36" y="848">website ↗</text>
+      <text x="205" y="848">linkedin ↗</text>
+      <text x="386" y="848">telegram ↗</text>
+      <text x="568" y="848">email ↗</text>
+    </g>
+    <text x="36" y="903" class="mono prompt" font-size="15">~ $</text>
+    <rect x="82" y="889" width="9" height="18" fill="#d7b777"/>
+  </g>
+  <rect x="0.5" y="0.5" width="959" height="939" rx="12" fill="none" stroke="#303943"/>
+</svg>
